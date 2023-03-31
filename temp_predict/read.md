@@ -25,7 +25,7 @@
 - sklearn.tree.**DecisionTreeRegressor**
 - sklearn.ensemble.**RandomForestRegressor**
 - sklearn.dummy.**DummyRegressor**
--lightgbm.**LGBMRegressor**
+- lightgbm.**LGBMRegressor**
 - **matplotlib**
 - **seaborn**
 
