@@ -18,7 +18,6 @@
 - sklearn.pipeline.**make_pipeline**
 - sklearn.metrics.**make_scorer**
 - sklearn.model_selection.**GridSearchCV**
-- sklearn.model_selection.**model_selection**
 - sklearn.metrics.**mean_absolute_error**
 - sklearn.preprocessing.**StandardScaler**
 - sklearn.linear_model.**LinearRegression**
